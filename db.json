@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "tittle": "O labirinto do Logcat",
+            "cape": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
+            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        },
+        {
+            "id": 2,
+            "tittle": "Um componente no espaço",
+            "cape": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img1.png",
+            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        },
+        {
+            "id": 3,
+            "tittle": "O poderoso JavaScript",
+            "cape": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img4.png",
+            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        },
+        {
+            "id": 4,
+            "tittle": "Dart, o Caçador de Andróides",
+            "cape": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        }
+    ]
+}
